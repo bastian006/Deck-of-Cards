@@ -1,0 +1,5 @@
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Deck-of-Cards\cards\obj\Debug\net6.0\cards.csproj.AssemblyReference.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Deck-of-Cards\cards\obj\Debug\net6.0\cards.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Deck-of-Cards\cards\obj\Debug\net6.0\cards.AssemblyInfoInputs.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Deck-of-Cards\cards\obj\Debug\net6.0\cards.AssemblyInfo.cs
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Deck-of-Cards\cards\obj\Debug\net6.0\cards.csproj.CoreCompileInputs.cache
